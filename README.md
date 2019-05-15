@@ -27,3 +27,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### libreries
+Axios (npm i --save Axios)
+VeeValidate (npm i --save vee-validate)
